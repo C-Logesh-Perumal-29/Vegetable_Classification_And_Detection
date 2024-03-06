@@ -44,7 +44,7 @@ Vegetable Classification &amp; Detection, a web-based tool, leverages Streamlit,
 
   	•	`git clone <repository_url>`  <br>
    
-     •	`cd vegetable-classification` 
+     •	`cd Vegetable_Classification_And_Detection` 
   	
 2.	Install the required dependencies.
 
